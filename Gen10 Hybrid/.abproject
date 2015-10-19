@@ -1,0 +1,48 @@
+{
+  "ProjectName": "Gen10 Hybrid",
+  "ProjectGuid": "82b14220-0769-4b32-8a78-cc5ff3b73e8b",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Gen10Hybrid",
+  "DisplayName": "Gen10 Hybrid",
+  "Author": "",
+  "Description": "Gen10 Hybrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{6d5adcc8-27fc-44a2-b02b-eac4f523a0f2}",
+  "WP8ProductID": "{5b0eb92b-c025-4bb1-b42d-4831eee41b60}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Gen10Hybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.network-information"
+  ]
+}
